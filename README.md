@@ -3,7 +3,7 @@
 
 
   
-  👩🏻‍💻I am enthusiastic about delving into the data lifecycle, employing various tools and techniques to understand data for actionable insights.
+  👩🏻‍💻  I am enthusiastic about delving into the data lifecycle, employing various tools and techniques to understand data for actionable insights.
   
   
   My expertise spans Data Analytics, Machine Learning,Time-series Forecasting, and an unwavering attention to detail.
