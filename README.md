@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tharanitharan</h1>
-<h3 align="center">Machine Learning and Data Science Enthusiast 👩🏻‍💻I am enthusiastic about delving into the data lifecycle, employing various tools and techniques to understand data for actionable insights. My expertise spans Data Analytics, Machine Learning,Time-series Forecasting, and an unwavering attention to detail. I strive to make informed recommendations that benefit different business groups.</h3>
+<h3 align="center">Machine Learning and Data Science Enthusiast 
+  
+  👩🏻‍💻I am enthusiastic about delving into the data lifecycle, employing various tools and techniques to understand data for actionable insights.
+  
+  My expertise spans Data Analytics, Machine Learning,Time-series Forecasting, and an unwavering attention to detail.
+  
+  I strive to make informed recommendations that benefit different business groups.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/open-automation-architecture-abstract-concept-illustration_335657-3802.jpg?w=740&t=st=1713783150~exp=1713783750~hmac=599a9caa1bd8c069cd022b3c2ccaa1e74433d440dd6d55712337f21f13d604c1">
 
 - 💬 Ask me about **Statistics, Machine Learning, Deep Learning**
