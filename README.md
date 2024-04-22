@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharanitharan</h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast 
+
+
   
   👩🏻‍💻I am enthusiastic about delving into the data lifecycle, employing various tools and techniques to understand data for actionable insights.
   
