@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://stock.adobe.com/in/images/data-science-analytics-analysis-robotic-arm-3d-rendering/429998837))](https://rishavchanda.io)
 <h1 align="center">
   
   Hi 👋, I'm Tharanitharan</h1>
