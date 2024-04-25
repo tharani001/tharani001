@@ -13,8 +13,8 @@
   
   I strive to make informed recommendations that benefit different business groups.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
-w=740&t=st=1713783150~exp=1713783750~hmac=599a9caa1bd8c069cd022b3c2ccaa1e74433d440dd6d55712337f21f13d604c1
-- 💬 Ask me about **Statistics, Machine Learning, Deep Learning**
+
+- 💬 Ask me about **Statistics, Machine Learning, Data Visualization, Data Modelling**
 
 - 📫 How to reach me **tharanisak63@gmail.com**
 
