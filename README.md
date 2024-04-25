@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tharanitharan</h1>
+<h1 align="center">
+  
+  Hi 👋, I'm Tharanitharan</h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast 
 
 
