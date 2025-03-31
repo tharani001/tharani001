@@ -14,7 +14,7 @@
   I strive to make informed recommendations that benefit different business groups.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
-- 💬 Ask me about **Statistics, Machine Learning, Data Visualization, Machine Learning, Deep Learning, NLP, GenAI**
+- 💬 Ask me about **Statistics, Machine Learning, Deep Learning,Time Series Forecasting, NLP, GenAI**
 
 - 📫 How to reach me **tharanisak63@gmail.com**
 
