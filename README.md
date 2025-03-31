@@ -7,8 +7,12 @@
   
   👩🏻‍💻  I am enthusiastic about delving into the data lifecycle, employing various tools and techniques to understand data for actionable insights.
   
+
+
   
   My expertise spans Data Analytics, Machine Learning,SQL,Deep Learning, NLP, GenAI and an unwavering attention to detail.
+
+
   
   
   I strive to make informed recommendations that benefit different business groups.</h3>
